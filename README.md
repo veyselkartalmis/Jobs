@@ -6,5 +6,5 @@ write clean, organized, and maintainable code with proper architecture
 follow the best practices for React Native development
 
 ### Screenshots
-<img src="./assets/images/jobs-homepage.png" alt="">
-<img src="./assets/images/jobs-detail.png" alt="">
+<img src="./assets/images/jobs-homepage.png" alt="" style="width:400px; object-fix: cover;">
+<img src="./assets/images/jobs-detail.png" alt="" style="width:400px; object-fix: cover;">
