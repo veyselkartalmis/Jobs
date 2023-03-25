@@ -1,4 +1,4 @@
-import { useStateF } from "react";
+import { useState } from "react";
 import {
     View,
     Text,
